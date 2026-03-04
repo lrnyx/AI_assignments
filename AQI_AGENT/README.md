@@ -4,9 +4,11 @@ This program implements a simple reflex agent that calculates the Air Quality In
 Instead of real sensors, a dataset file is used as input.
 
 Dataset
+
 The dataset used is taken from Kaggle (Air Quality Data in India). It contains pollution values measured in different cities.
 
 The pollutants used in the program are:
+
 PM2.5
 PM10
 NO2
@@ -15,10 +17,14 @@ CO
 O3
 
 How the Program Works
+
+
 The program reads pollution values from the dataset file. Each row represents a set of sensor readings.
 The agent checks these values and determines the AQI category.
 
 The AQI categories are:
+
+
 0–50 Good
 51–100 Moderate
 101–200 Unhealthy
