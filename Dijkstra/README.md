@@ -61,25 +61,4 @@ In this part, obstacles are not fixed. They can appear while the robot is moving
 
 This simulates a more realistic environment where the robot has to continuously adapt.
 
----
 
-## Key Concepts Used
-
-- Dijkstra’s Algorithm (Uniform Cost Search)
-- A* Search
-- Heuristics (Manhattan Distance)
-- Grid-based navigation
-- Replanning in dynamic environments
-
----
-
-## Tools Used
-
-- Python
-- heapq (for priority queue)
-- CSV module
-- random module
-
----
-
-## Project Structure
