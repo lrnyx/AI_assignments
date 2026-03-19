@@ -1,4 +1,4 @@
-# UGV Pathfinding and Search Algorithms
+# ASSIGNMENT 3 
 
 This project covers three different pathfinding problems that are commonly studied in AI:
 
